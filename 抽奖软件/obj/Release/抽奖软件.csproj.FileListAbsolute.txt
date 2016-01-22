@@ -1,0 +1,8 @@
+D:\VSProjects\抽奖软件\抽奖软件\bin\Release\抽奖软件.exe.config
+D:\VSProjects\抽奖软件\抽奖软件\bin\Release\抽奖软件.exe
+D:\VSProjects\抽奖软件\抽奖软件\bin\Release\抽奖软件.pdb
+D:\VSProjects\抽奖软件\抽奖软件\obj\Release\抽奖软件.Form1.resources
+D:\VSProjects\抽奖软件\抽奖软件\obj\Release\抽奖软件.Properties.Resources.resources
+D:\VSProjects\抽奖软件\抽奖软件\obj\Release\抽奖软件.csproj.GenerateResource.Cache
+D:\VSProjects\抽奖软件\抽奖软件\obj\Release\抽奖软件.exe
+D:\VSProjects\抽奖软件\抽奖软件\obj\Release\抽奖软件.pdb
